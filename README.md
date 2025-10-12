@@ -1,2 +1,2 @@
 # Internet Of Things
-This repository contains a collection of Internet of Things experiments and code examples, utilizing protocols and tools. It includes sample implementations for connecting devices, collecting sensor data and understanding the fundementals of IoT. This repository serves as a resource for students and enthusiasts interested in exploring IoT concepts and building connected systems.
+This repository contains Internet of Things (IoT) experiments and code examples using common protocols and tools. It includes implementations for device connectivity, sensor data collection, and learning IoT fundamentals. A resource for students and enthusiasts exploring IoT concepts and connected systems.

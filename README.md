@@ -8,3 +8,4 @@ This repository contains Internet of Things (IoT) experiments and code examples 
       Inspection of Voltage Variation with LDR
       Playing Melody with Buzzer
       Controlling DC Fan Motor
+      Attaching an LCD

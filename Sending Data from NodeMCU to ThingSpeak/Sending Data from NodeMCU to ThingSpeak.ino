@@ -2,13 +2,13 @@
 #include <WiFiClient.h>
 #include <ThingSpeak.h>
 
-const char* ssid = "OnePlus_9R"; 
-const char* password = "Lamia4455"; 
+const char* ssid = "Your Wi-Fi name"; 
+const char* password = "Wi-Fi password"; 
 int val;
 int pin = A0; 
 WiFiClient client;
-unsigned long myChannelNumber = 2869753; 
-const char* myWriteAPIKey = "KYLK0JE01RRY5R2O"; 
+unsigned long myChannelNumber = 'channel number (int)'; 
+const char* myWriteAPIKey = "your API key from thinkspeak"; 
 
 void setup() {
     Serial.begin(9600);

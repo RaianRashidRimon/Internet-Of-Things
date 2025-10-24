@@ -9,3 +9,4 @@ This repository contains Internet of Things (IoT) experiments and code examples 
       Playing Melody with Buzzer
       Controlling DC Fan Motor
       Attaching an LCD
+      Sending Data from NodeMCU to ThingSpeak

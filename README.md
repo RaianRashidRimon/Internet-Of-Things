@@ -10,3 +10,6 @@ This repository contains Internet of Things (IoT) experiments and code examples 
       Controlling DC Fan Motor
       Attaching an LCD
       Sending Data from NodeMCU to ThingSpeak
+
+## 🎯 Purpose
+A compact, hands-on repository for learning practical IoT fundamentals through simple experiments and clear, reusable examples. Each experiment focuses on a single concept (sensors, actuators, interfacing, or cloud telemetry) so learners can quickly build, test, and extend real IoT setups.

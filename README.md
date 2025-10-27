@@ -12,11 +12,13 @@ This repository contains Internet of Things (IoT) experiments and code examples 
       Sending Data from NodeMCU to ThingSpeak
 
 ## 🎯 Purpose
-A compact, hands-on repository for learning practical IoT fundamentals through simple experiments and clear, reusable examples. Each experiment focuses on a single concept (sensors, actuators, interfacing, or cloud telemetry) so learners can quickly build, test, and extend real IoT setups.
+A compact, hands-on repository for learning practical IoT fundamentals through simple experiments and clear, reusable examples. Each experiment focuses on a single concept (sensors, actuators, interfacing or cloud telemetry) so learners can quickly build, test, and extend real IoT setups.
 
 ## 📌 Usage
 1. Clone the repository:
 
-   git clone `https://github.com/RaianRashidRimon/Prolog-Problems.git`
+   git clone `https://github.com/RaianRashidRimon/Internet-Of-Things.git`
    
-3. Navigate to the folder and run the desired code in SWI-Prolog.
+2. Open the desried code in Arduino IDE
+3. Choose the appropriate board and port
+4. Build the circuit as shown and upload the corresponding code to your board (or follow the Materials and Procedure PDF for detailed steps)

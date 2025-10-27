@@ -13,3 +13,10 @@ This repository contains Internet of Things (IoT) experiments and code examples 
 
 ## 🎯 Purpose
 A compact, hands-on repository for learning practical IoT fundamentals through simple experiments and clear, reusable examples. Each experiment focuses on a single concept (sensors, actuators, interfacing, or cloud telemetry) so learners can quickly build, test, and extend real IoT setups.
+
+## 📌 Usage
+1. Clone the repository:
+
+   git clone `https://github.com/RaianRashidRimon/Prolog-Problems.git`
+   
+3. Navigate to the folder and run the desired code in SWI-Prolog.

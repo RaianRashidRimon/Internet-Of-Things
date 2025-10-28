@@ -22,3 +22,8 @@ A compact, hands-on repository for learning practical IoT fundamentals through s
 2. Open the desried code in Arduino IDE
 3. Choose the appropriate board and port
 4. Build the circuit as shown and upload the corresponding code to your board (or follow the Materials and Procedure PDF for detailed steps)
+
+## 🤝 Contribution
+If you find any issues, have suggestions for improvement or wish to add new IoT experiments, feel free to:
+1. Open an issue describing the problem or enhancement.
+2. Fork the repository, implement your changes and create a pull request with a brief description of your addition.
